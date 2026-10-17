@@ -1,0 +1,16 @@
+{
+  "$jason": {
+    "head": {
+      "title": "Seu App Web",
+      "actions": {
+        "$load": {
+          "type": "$href",
+          "options": {
+            "url": "https://a1-41ymh7hclvwqwi1ckolc2jk62.infusion.cloud",
+            "view": "web"
+          }
+        }
+      }
+    }
+  }
+}
